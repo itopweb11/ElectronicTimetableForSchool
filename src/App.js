@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Электронное расписание для школы
         </a>
       </header>
     </div>
