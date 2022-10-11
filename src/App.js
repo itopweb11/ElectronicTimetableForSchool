@@ -10,7 +10,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Электронное расписание для школы
+          Электронное расписание для школы.
         </a>
       </header>
     </div>
